@@ -11,7 +11,7 @@ C. Todd Lombardo — todd.lombardo@faculty.hult.edu
 
 The fastest way to start coding — no installation required. Click the button below and you'll have a fully configured Python environment running in your browser in about 60 seconds.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Hult-LSN0104)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Hult-LSN0104/SUM1-2026?template=true)
 
 > **First time?** See [How to Use This Repo](#how-to-use-this-repo) below.
 
