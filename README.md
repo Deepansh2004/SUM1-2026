@@ -1,12 +1,10 @@
-# SUM1-2026
-## LSN-0104 — Introduction to Programming with Python
+# LSN-0104 — Introduction to Programming with Python
 **Hult International Business School**
 
 Instructor: 
 C. Todd Lombardo — todd.lombardo@faculty.hult.edu
 
 <img width="875" height="432" alt="imagen" src="https://github.com/user-attachments/assets/783de040-3cd0-4053-8662-7c1b038406bf" />
-
 
 ---
 
