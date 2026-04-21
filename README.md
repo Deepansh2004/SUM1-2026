@@ -52,7 +52,7 @@ If you prefer to work on your own machine:
 
 ---
 
-## Setting Up Your Anthropic API Key
+## Set Up Your Anthropic API Key
 
 Some activities in this course use AI via the Anthropic API. You'll need your own key.
 
