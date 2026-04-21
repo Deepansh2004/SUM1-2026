@@ -1,4 +1,4 @@
-# .github
+# SUM1-2026
 ## LSN-0104 — Introduction to Programming with Python
 **Hult International Business School**
 
