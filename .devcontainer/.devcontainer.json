@@ -1,6 +1,7 @@
 {
   "name": "LSN-0104 Python",
   "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install anthropic",
   "customizations": {
     "vscode": {
       "extensions": [
