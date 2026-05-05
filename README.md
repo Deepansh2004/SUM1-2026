@@ -21,10 +21,13 @@ The fastest way to start coding — no installation required. Click the button b
 ## What's in This Repo
 
 ```
-📁 sessions/          Slides and starter code, organised by session
-📁 datasets/          CSV files used in class activities
-📁 problem-sets/      Weekly assignments with instructions and starter files
 📁 capstone/          Final project brief and dataset
+📁 datasets/          CSV (data) files used in class activities
+📁 problem-sets/      Assignments with instructions and starter files
+📁 reference/         A primer on how to use GitHub 
+📁 sessions/          Slides and starter code, organised by session
+📁 README.md          A files to explain things around here
+📁 requirements.txt   Lists out needs for this repository to run properly
 📄 resources.md       Useful links: docs, practice sites, free books
 ```
 
@@ -38,8 +41,8 @@ Works entirely in your browser. Nothing to install.
 1. Click the **Open in GitHub Codespaces** button above
 2. Wait about 60 seconds for the environment to load
 3. You'll see a VS Code editor in your browser — you're ready to code
-4. Navigate to the session folder (e.g. `sessions/week1-session1/`)
-5. Open `starter.py` and follow the instructions inside
+4. Navigate to the session folder (e.g. `sessions/session04/`)
+5. Open `04-starter.py` and follow the instructions inside
 
 > Your Codespace saves automatically. You can close the tab and come back later — your work will still be there.
 
@@ -107,8 +110,8 @@ These files are used in class activities and problem sets. They live in the `dat
 ## Problem Sets
 
 Problem sets are released each week after the second session. You'll find them in the `problem-sets/` folder. Each one has:
-- `instructions.md` — what to do and how it's graded
-- `starter.py` — a file with structure already in place; fill in your code where indicated
+- `ps#-instructions.md` — what to do and how it's graded
+- `ps#-starter.py` — a file with structure already in place; fill in your code where indicated
 
 Submit your completed `.py` file on Canvas by the deadline.
 
