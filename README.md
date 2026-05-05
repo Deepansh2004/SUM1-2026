@@ -107,8 +107,8 @@ These files are used in class activities and problem sets. They live in the `dat
 ## Problem Sets
 
 Problem sets are released each week after the second session. You'll find them in the `problem-sets/` folder. Each one has:
-- `instructions.md` — what to do and how it's graded
-- `starter.py` — a file with structure already in place; fill in your code where indicated
+- `ps#-instructions.md` — what to do and how it's graded
+- `ps#-starter.py` — a file with structure already in place; fill in your code where indicated
 
 Submit your completed `.py` file on Canvas by the deadline.
 
