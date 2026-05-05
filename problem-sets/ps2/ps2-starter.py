@@ -5,7 +5,7 @@
 # Instructions are in instructions.md
 # =============================================================================
 
-# The raw data — do not change these values
+# The raw data — DO NOT CHANGE these values
 raw_records = [
     "  alice johnson | laptop stand | 5 | $29.99  ",
     "BOB SMITH | wireless mouse | 12 | $19.99",
