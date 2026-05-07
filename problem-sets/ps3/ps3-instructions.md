@@ -1,6 +1,6 @@
 # Problem Set 3 — Data Collections & File Handling
 
-**LSN-0104 | Covers Sessions 9–12 | Due: End of Week 6**
+**LSN-0104 | Covers Sessions 9–12 | Due: End of Week 5**
 
 ---
 
