@@ -10,7 +10,8 @@
 - All code must run without errors in Python 3.x. Test before submitting.
 - Use comments to clearly label each exercise (e.g., `# Exercise 1`).
 - Academic integrity: all code must be your own. Collaboration is encouraged for concepts, not code.
-- Late submissions: -10% per day. Contact the instructor in advance for extensions.
+- Per Hult policy, assignments will be open for a maximum of 48 hours after the due date.
+- Late submissions: After 48 hours beyond due date and time, any non-submitted assignments receive a grade of '0'.
 
 ---
 
