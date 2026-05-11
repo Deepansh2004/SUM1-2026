@@ -1,6 +1,6 @@
 # Problem Set 3 — Data Collections & File Handling
 
-**LSN-0104 | Covers Sessions 9–12 | Due: End of Week 6**
+**LSN-0104 | Covers Sessions 9–12 | Due: End of Week 5**
 
 ---
 
@@ -10,7 +10,8 @@
 - All code must run without errors. Include your sample CSV file in the zip.
 - Use docstrings and comments throughout.
 - This is the most substantial problem set — start early.
-- Late submissions: -10% per day.
+- Per Hult policy, assignments will be open for a maximum of 48 hours after the due date.
+- Late submissions: After 48 hours beyond due date and time, any non-submitted assignments receive a grade of '0'.
 
 ---
 
