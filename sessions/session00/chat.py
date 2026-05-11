@@ -1,6 +1,6 @@
 from anthropic import Anthropic
 
-client = Anthropic()  # <— reads ANTHROPIC_API_KEY from environment
+client = Anthropic()
 
 user_prompt = input("What is your question? ")
 
